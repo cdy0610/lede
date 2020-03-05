@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: xunlei0.1
+name: xunlei1.0
 
 on:
 #  push:
